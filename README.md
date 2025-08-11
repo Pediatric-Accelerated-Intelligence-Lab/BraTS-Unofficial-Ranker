@@ -30,9 +30,7 @@ cd BraTS‑Unofficial‑Ranker
 BraTS‑Unofficial‑Ranker
 │   README.md
 │   ranker.py   
-│
-└───ranker
-│   └───TaskName1
+└───TaskName1
 │       │   submission1.csv
 │       │   submission2.csv
 │       │   ...
